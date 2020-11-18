@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Ariel Gutierrez
+2. Student ID: 2318163
+3. Email: arigutierrez@chapman.edu
+4. Class: CPSC 298-01
 5. Assignment: numbers 
 
 ## Application Purpose
@@ -16,6 +16,7 @@ A bash script named “numbers.sh” that will
 2. numbers-input
 
 ## Known Errors 
+N/A
 
 ## References
 
